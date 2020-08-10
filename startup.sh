@@ -1,0 +1,1 @@
+geth --rpc --rpcaddr "0.0.0.0" --rpcport 8545 --rpccorsdomain "*" --rpcapi "personal,db,eth,net,web3" --networkid 666666 console

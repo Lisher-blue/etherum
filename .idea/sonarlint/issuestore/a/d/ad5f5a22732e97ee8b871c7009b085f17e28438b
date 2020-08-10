@@ -1,0 +1,15 @@
+
+‚"squid:ClassVariableVisibilityCheck"TMake PASSWORD a static final constant or non-public and provide accessors if needed.(İÆ·ğ
+Esquid:S1444".Make this "public static PASSWORD" field final(İÆ·ğ
+…"squid:ClassVariableVisibilityCheck"RMake SOURCE a static final constant or non-public and provide accessors if needed.(Ä´ ™ÿÿÿÿÿ
+nsquid:S3008"RRename this field "ADDRESS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìË¹úùÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck"OMake URL a static final constant or non-public and provide accessors if needed.(ëí¡¤ûÿÿÿÿ
+jsquid:S3008"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëí¡¤ûÿÿÿÿ
+jsquid:S3008"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÆ·ğ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+msquid:S3008"QRename this field "SOURCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä´ ™ÿÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(“³±ûÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck"SMake ADDRESS a static final constant or non-public and provide accessors if needed.(ìË¹úùÿÿÿÿ
+Esquid:S1444")Make this "public static URL" field final(ëí¡¤ûÿÿÿÿ
+Hsquid:S1444",Make this "public static SOURCE" field final(Ä´ ™ÿÿÿÿÿ
+Isquid:S1444"-Make this "public static ADDRESS" field final(ìË¹úùÿÿÿÿ
